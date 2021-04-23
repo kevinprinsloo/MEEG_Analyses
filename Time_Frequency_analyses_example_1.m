@@ -7,7 +7,7 @@
 %   tapered with a Gaussian function).
 %
 %   Status:
-%   Incomplete
+%   Under development
 %
 %   Notes:
 %
